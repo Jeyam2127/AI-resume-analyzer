@@ -1,0 +1,64 @@
+{
+    "python": 5,
+    "java": 5,
+    "javascript": 4,
+    "typescript": 4,
+    "c++": 4,
+    "c#": 4,
+    "c":2,
+
+    "sql": 5,
+    "mysql": 4,
+    "postgresql": 4,
+    "mongodb": 4,
+    "oracle": 3,
+
+    "django": 5,
+    "flask": 4,
+    "fastapi": 4,
+    "spring boot": 5,
+    "react": 5,
+    "angular": 4,
+    "node.js": 4,
+
+    "html": 3,
+    "css": 3,
+    "bootstrap": 3,
+
+    "aws": 5,
+    "azure": 5,
+    "gcp": 4,
+    "docker": 5,
+    "kubernetes": 5,
+
+    "machine learning": 5,
+    "deep learning": 5,
+    "tensorflow": 5,
+    "pytorch": 5,
+    "nlp": 5,
+    "data science": 4,
+
+    "pandas": 4,
+    "numpy": 4,
+    "scikit-learn": 5,
+
+    "git": 3,
+    "github": 3,
+    "gitlab": 3,
+    "jenkins": 4,
+    "jira": 3,
+
+    "linux": 4,
+    "unix": 3,
+
+    "rest api": 5,
+    "microservices": 5,
+    "api development": 4,
+
+    "agile": 3,
+    "scrum": 3,
+
+    "excel": 3,
+    "power bi": 4,
+    "tableau": 4
+}
